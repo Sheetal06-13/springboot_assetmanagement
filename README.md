@@ -1,4 +1,4 @@
-# springboot_assetmanagement
+# springboot_assetmanagement -A Springboot application based on RestAPI.
 In this application I have created one to one mapping between asset and category of a product of company using Spring boot,jpa and mysql database.
 You can see here 4 packages like controller,services,entity ,repository.
 # In controller package 
